@@ -113,6 +113,6 @@ class Session {
     
     private init () {}
     
-    var token: String = "eefd44bde2a1585cece15e341eb4251d78129abc5935ced50c2ee7e40294a8347ccdf68e6cac1a1031e62"
+    var token: String = "25ef08f625ef08f625ef08f6c2258483fc225ef25ef08f6785af179d1821aaf7d60c04a"
     var userId: Int = 7047946
 }
